@@ -1,0 +1,85 @@
+/* body {
+    min-height: 2000px;
+} */
+
+.jumbotron {
+    padding-top: 9.5rem;
+    background-color: #270082;
+    text-align: center;
+    /* height: 100vh; */
+    color: white;
+}
+
+.about {
+    padding-top: 20px;
+    background-color: #7a0bc0;
+    /* height: 100vh; */
+}
+
+#project {
+    background-color: #FA58B6;
+    padding-top: 50px;
+    /* height: 100vh; */
+}
+
+.title-project {
+    padding-top: 30px;
+    color: #170247;
+    font-weight: 400;
+}
+
+#web-develop {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: #170247;
+}
+
+#video-editing {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    color: #170247;
+}
+
+#motion-graphic {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    color: #170247;
+}
+
+#galery {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+ #contact {
+    padding-top: 150px ;
+ }
+
+.link-project > a {
+    text-decoration: none;
+    color: #270082;
+    text-transform: capitalize;
+}
+
+#footer {
+    background-color: #1A1A40;
+    justify-content: center;
+    color: white;
+    padding: 5px;
+    padding-bottom: 3px;
+    margin-top: 8px;
+    z-index: 1;
+    /* margin-bottom: 5px; */
+}
+
+#footer > p {
+    text-align: center;
+    padding-top: 5px;
+}
+
+#footer > p > a {
+    color: white;
+    text-decoration: none ;
+    font-weight: bold;
+}
+
