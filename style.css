@@ -87,6 +87,10 @@
     color: rgb(95, 93, 93);
  }
 
+.link-project {
+    color: aquamarine;
+}
+
 .link-project > a {
     text-decoration: none;
     color: aquamarine;
