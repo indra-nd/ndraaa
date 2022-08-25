@@ -1,0 +1,123 @@
+/* .body {
+    font-family: 'Mukta', sans-serif; 
+} */
+
+
+
+.jumbotron {
+    padding-top: 9.5rem;
+    background-color: #270082;
+    text-align: center;
+    /* height: 100vh; */
+    color: white;
+}
+
+.display-1 {
+    color: aqua;
+}
+
+.display-6 {
+    color: white;
+}
+
+.lead {
+    color: aquamarine;
+}
+
+
+.about {
+    padding-top: 20px;
+    background-color: #7a0bc0;
+    /* height: 100vh; */
+}
+
+#project {
+    background-color: #FA58B6;
+    padding-top: 50px;
+    /* height: 100vh; */
+}
+
+.title-project {
+    padding-top: 30px;
+    color: white;
+    /* font-weight: 400; */
+}
+
+#web-develop {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: rgb(255, 208, 208);
+}
+
+#video-editing {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    color: rgb(255, 208, 208);
+}
+
+#motion-graphic {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    color: rgb(255, 208, 208);
+}
+
+.card-text {
+    color: white;
+}
+
+#galery {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: rgb(95, 93, 93);
+}
+
+#sosmed {
+    padding-top: 100px;
+    padding-bottom: 59px;
+    background-color: rgb(181, 250, 250);
+}
+
+#sosmed > h2,p,h5{
+    color: rgb(95, 93, 93);
+}
+
+ #contact {
+    padding-top: 150px ;
+    padding-bottom: 40px;
+    color: rgb(95, 93, 93);
+ }
+
+.link-project > a {
+    text-decoration: none;
+    color: aquamarine;
+    text-transform: capitalize;
+}
+
+.link-project > a:hover {
+    text-decoration: none;
+    color: rgb(255, 208, 208);
+    text-transform: capitalize;
+}
+
+#footer {
+    background-color: #1A1A40;
+    justify-content: center;
+    color: rgb(110, 167, 233);
+    padding: 5px;
+    padding-bottom: 3px;
+    margin-top: 8px;
+    z-index: 1;
+    /* margin-bottom: 5px; */
+}
+
+#footer > p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#footer > p > a {
+    color: rgb(110, 167, 233);
+    text-decoration: none ;
+    font-weight: bold;
+}
+
